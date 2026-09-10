@@ -1,6 +1,7 @@
 # piyushthesingh.com
 
 Static site. Deploys to Cloudflare Pages.
+Deploys automatically from the main branch.
 
 ## Files
 
